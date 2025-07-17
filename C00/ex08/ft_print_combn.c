@@ -40,6 +40,7 @@ void	ft_print_combn(int n)
 	char	c;
 	int		comb[10];
 
+	c = '0';
 	array_creation(comb, n);
 	while (1)
 	{
